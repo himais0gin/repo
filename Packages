@@ -1,0 +1,17 @@
+Package: com.coolbooter.cbuntether
+Section: System
+Maintainer: CoolBooter <coolbooterios@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.0-release
+Depends: mobilesubstrate
+Filename: ./debs/com.coolbooter.cbuntether_1.0-release_iphoneos-arm.deb
+Size: 21320
+MD5sum: 41731a3a85e57af4e98653cce88dc419
+SHA1: 05e010563d17ab831e9047b68e2d1c1140667078
+SHA256: 2adb5e835a46bddfeccaa569906430f3fb1749cfa32f2fcb0a53b37cb418e9f9
+Description: "Untethers" an existing CoolBooter install
+ CoolBooter Untetherer is an extension for CoolBooter that allows the user to boot into their second OS automatically.
+ To disable the untether, hold volume down during boot.
+Name: CoolBooter Untetherer
+Author: CoolBooter <coolbooterios@gmail.com>
+
