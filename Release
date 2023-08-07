@@ -1,8 +1,8 @@
-origin: Himais0's repo
-Label: Himais0
+origin: Grove repo
+Label: Grove
 suite: stable
 Version: 1.0
-Codename: Himais0
+Codename: grove
 Architectures: iphoneos-arm
 Components: main
-Description: none
+Description: Grove's Repository!
